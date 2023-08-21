@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kai Weterings</h1>
 <h3 align="center">Physics Student, and Coding Enthusiast in Quantitative Topics</h3>
-<img align="right" alt="Coding" width "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Ffr%2Fexemplaryfairfeline&psig=AOvVaw1a2rZVSwNHb3ufGm32f1lQ&ust=1692745085665000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNiq0_3s7oADFQAAAAAdAAAAABBZ">
+<img align="right" alt="Coding" width "400" src="https://tenor.com/view/programmer-gif-19019116">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kweterings&label=Profile%20views&color=0e75b6&style=flat" alt="kweterings" /> </p>
 
